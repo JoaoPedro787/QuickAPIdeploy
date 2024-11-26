@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/QuickAPIdeploy/static/css/main.3063267f.css",
+    "main.js": "/QuickAPIdeploy/static/js/main.a448efa0.js",
+    "static/js/453.ed3810f9.chunk.js": "/QuickAPIdeploy/static/js/453.ed3810f9.chunk.js",
+    "index.html": "/QuickAPIdeploy/index.html",
+    "main.3063267f.css.map": "/QuickAPIdeploy/static/css/main.3063267f.css.map",
+    "main.a448efa0.js.map": "/QuickAPIdeploy/static/js/main.a448efa0.js.map",
+    "453.ed3810f9.chunk.js.map": "/QuickAPIdeploy/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3063267f.css",
+    "static/js/main.a448efa0.js"
+  ]
+}
